@@ -1,0 +1,31 @@
+{
+  "name": "@bellvoud/github-activity-cli",
+  "version": "1.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "A simple CLI GitHub Activity to show current activity",
+  "main": "github-activity-cli.js",
+  "bin": {
+    "github-activity": "./github-activity-cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "cli"
+  ],
+  "author": "Bellvoud",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bellvoud/github-activity-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bellvoud/github-activitycli/issues"
+  },
+  "homepage": "https://github.com/bellvoud/github-activity-cli#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
