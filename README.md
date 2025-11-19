@@ -7,14 +7,14 @@ A simple command-line tool to fetch and display a GitHub user's recent activity.
 ### Global Installation (Recommended)
 
 ```bash
-npm install -g github-activity-cli
+npm i @bellvoud/github-activity-cli
 ```
 
 ### Local Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/github-activity-cli.git
+git clone https://github.com/bellvoud/github-activity-cli.git
 cd github-activity-cli
 
 # Install and link
