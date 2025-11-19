@@ -5,7 +5,7 @@ A simple command-line tool to fetch and display a GitHub user's recent activity.
 ## Features
 
 - View recent GitHub activity for any user
-- Simple and fast
+- Simple and fast ⚡
 - No configuration needed
 
 ## Installation
@@ -13,7 +13,7 @@ A simple command-line tool to fetch and display a GitHub user's recent activity.
 ### Global Installation (Recommended)
 
 ```bash
-npm i @bellvoud/github-activity-cli
+npm i -g @bellvoud/github-activity-cli
 ```
 
 ### Local Installation
