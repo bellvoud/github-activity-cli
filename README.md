@@ -2,6 +2,12 @@
 
 A simple command-line tool to fetch and display a GitHub user's recent activity.
 
+## Features
+
+- View recent GitHub activity for any user
+- Simple and fast
+- No configuration needed
+
 ## Installation
 
 ### Global Installation (Recommended)
@@ -41,12 +47,6 @@ Output:
 - Opened a new issue in kamranahmedse/developer-roadmap
 - Starred kamranahmedse/developer-roadmap
 ```
-
-## Features
-
-- View recent GitHub activity for any user
-- Simple and fast
-- No configuration needed
 
 ## Requirements
 
